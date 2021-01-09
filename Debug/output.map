@@ -353,8 +353,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/APDS9960/apds9960.o
  .debug_macro   0x00000000       0x83 lib/bsp/APDS9960/apds9960.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/APDS9960/apds9960.o
- .debug_line    0x00000000      0x7f1 lib/bsp/APDS9960/apds9960.o
- .debug_str     0x00000000    0x779d7 lib/bsp/APDS9960/apds9960.o
+ .debug_line    0x00000000      0x809 lib/bsp/APDS9960/apds9960.o
+ .debug_str     0x00000000    0x779dd lib/bsp/APDS9960/apds9960.o
  .comment       0x00000000       0x80 lib/bsp/APDS9960/apds9960.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/APDS9960/apds9960.o
@@ -508,8 +508,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 lib/bsp/BH1750FVI/bh1750fvi.o
  .debug_macro   0x00000000      0x16f lib/bsp/BH1750FVI/bh1750fvi.o
  .debug_macro   0x00000000       0x88 lib/bsp/BH1750FVI/bh1750fvi.o
- .debug_line    0x00000000      0x98c lib/bsp/BH1750FVI/bh1750fvi.o
- .debug_str     0x00000000    0x7bb60 lib/bsp/BH1750FVI/bh1750fvi.o
+ .debug_line    0x00000000      0x9aa lib/bsp/BH1750FVI/bh1750fvi.o
+ .debug_str     0x00000000    0x7bb66 lib/bsp/BH1750FVI/bh1750fvi.o
  .comment       0x00000000       0x80 lib/bsp/BH1750FVI/bh1750fvi.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/BH1750FVI/bh1750fvi.o
@@ -613,8 +613,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
  .debug_macro   0x00000000       0x83 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
- .debug_line    0x00000000      0x805 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
- .debug_str     0x00000000    0x779eb lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
+ .debug_line    0x00000000      0x81d lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
  .comment       0x00000000       0x80 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/CapacitiveKeyboard/CapacitiveKeyboard.o
@@ -718,8 +718,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/DHT11/dht11.o
  .debug_macro   0x00000000       0x83 lib/bsp/DHT11/dht11.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/DHT11/dht11.o
- .debug_line    0x00000000      0x7eb lib/bsp/DHT11/dht11.o
- .debug_str     0x00000000    0x779d1 lib/bsp/DHT11/dht11.o
+ .debug_line    0x00000000      0x803 lib/bsp/DHT11/dht11.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/DHT11/dht11.o
  .comment       0x00000000       0x80 lib/bsp/DHT11/dht11.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/DHT11/dht11.o
@@ -829,8 +829,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
  .debug_macro   0x00000000      0x249 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
  .debug_macro   0x00000000       0x83 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
- .debug_line    0x00000000      0x884 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
- .debug_str     0x00000000    0x776bd lib/bsp/DriverLed_STP16CP05/stp16cp05.o
+ .debug_line    0x00000000      0x89c lib/bsp/DriverLed_STP16CP05/stp16cp05.o
+ .debug_str     0x00000000    0x776c3 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
  .comment       0x00000000       0x80 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
  .debug_frame   0x00000000       0x64 lib/bsp/DriverLed_STP16CP05/stp16cp05.o
  .ARM.attributes
@@ -997,8 +997,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 lib/bsp/ESP8266/esp8266.o
  .debug_macro   0x00000000      0x16f lib/bsp/ESP8266/esp8266.o
  .debug_macro   0x00000000       0x88 lib/bsp/ESP8266/esp8266.o
- .debug_line    0x00000000      0x9e7 lib/bsp/ESP8266/esp8266.o
- .debug_str     0x00000000    0x7bc7c lib/bsp/ESP8266/esp8266.o
+ .debug_line    0x00000000      0xa05 lib/bsp/ESP8266/esp8266.o
+ .debug_str     0x00000000    0x7bc82 lib/bsp/ESP8266/esp8266.o
  .comment       0x00000000       0x80 lib/bsp/ESP8266/esp8266.o
  .debug_frame   0x00000000       0x68 lib/bsp/ESP8266/esp8266.o
  .ARM.attributes
@@ -1103,8 +1103,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/FingerprintReader/fingerprint.o
  .debug_macro   0x00000000       0x83 lib/bsp/FingerprintReader/fingerprint.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/FingerprintReader/fingerprint.o
- .debug_line    0x00000000      0x7fd lib/bsp/FingerprintReader/fingerprint.o
- .debug_str     0x00000000    0x779e3 lib/bsp/FingerprintReader/fingerprint.o
+ .debug_line    0x00000000      0x815 lib/bsp/FingerprintReader/fingerprint.o
+ .debug_str     0x00000000    0x779e9 lib/bsp/FingerprintReader/fingerprint.o
  .comment       0x00000000       0x80 lib/bsp/FingerprintReader/fingerprint.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/FingerprintReader/fingerprint.o
@@ -1208,8 +1208,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/GPS/GPS.o
  .debug_macro   0x00000000       0x83 lib/bsp/GPS/GPS.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/GPS/GPS.o
- .debug_line    0x00000000      0x7e7 lib/bsp/GPS/GPS.o
- .debug_str     0x00000000    0x779cd lib/bsp/GPS/GPS.o
+ .debug_line    0x00000000      0x7ff lib/bsp/GPS/GPS.o
+ .debug_str     0x00000000    0x779d3 lib/bsp/GPS/GPS.o
  .comment       0x00000000       0x80 lib/bsp/GPS/GPS.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/GPS/GPS.o
@@ -1313,8 +1313,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/HC-SR04/HCSR04.o
  .debug_macro   0x00000000       0x83 lib/bsp/HC-SR04/HCSR04.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/HC-SR04/HCSR04.o
- .debug_line    0x00000000      0x7ee lib/bsp/HC-SR04/HCSR04.o
- .debug_str     0x00000000    0x779d4 lib/bsp/HC-SR04/HCSR04.o
+ .debug_line    0x00000000      0x806 lib/bsp/HC-SR04/HCSR04.o
+ .debug_str     0x00000000    0x779da lib/bsp/HC-SR04/HCSR04.o
  .comment       0x00000000       0x80 lib/bsp/HC-SR04/HCSR04.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/HC-SR04/HCSR04.o
@@ -1468,8 +1468,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 lib/bsp/MCP23017/mcp23017.o
  .debug_macro   0x00000000      0x16f lib/bsp/MCP23017/mcp23017.o
  .debug_macro   0x00000000       0x88 lib/bsp/MCP23017/mcp23017.o
- .debug_line    0x00000000      0x986 lib/bsp/MCP23017/mcp23017.o
- .debug_str     0x00000000    0x7bb65 lib/bsp/MCP23017/mcp23017.o
+ .debug_line    0x00000000      0x9a4 lib/bsp/MCP23017/mcp23017.o
+ .debug_str     0x00000000    0x7bb6b lib/bsp/MCP23017/mcp23017.o
  .comment       0x00000000       0x80 lib/bsp/MCP23017/mcp23017.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MCP23017/mcp23017.o
@@ -1573,8 +1573,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MCP23S17/mcp23s17.o
  .debug_macro   0x00000000       0x83 lib/bsp/MCP23S17/mcp23s17.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MCP23S17/mcp23s17.o
- .debug_line    0x00000000      0x7f1 lib/bsp/MCP23S17/mcp23s17.o
- .debug_str     0x00000000    0x779d7 lib/bsp/MCP23S17/mcp23s17.o
+ .debug_line    0x00000000      0x809 lib/bsp/MCP23S17/mcp23s17.o
+ .debug_str     0x00000000    0x779dd lib/bsp/MCP23S17/mcp23s17.o
  .comment       0x00000000       0x80 lib/bsp/MCP23S17/mcp23s17.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MCP23S17/mcp23s17.o
@@ -1678,8 +1678,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MLX90614/MLX90614.o
  .debug_macro   0x00000000       0x83 lib/bsp/MLX90614/MLX90614.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MLX90614/MLX90614.o
- .debug_line    0x00000000      0x7f1 lib/bsp/MLX90614/MLX90614.o
- .debug_str     0x00000000    0x779d7 lib/bsp/MLX90614/MLX90614.o
+ .debug_line    0x00000000      0x809 lib/bsp/MLX90614/MLX90614.o
+ .debug_str     0x00000000    0x779dd lib/bsp/MLX90614/MLX90614.o
  .comment       0x00000000       0x80 lib/bsp/MLX90614/MLX90614.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MLX90614/MLX90614.o
@@ -1783,8 +1783,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MPU6050/stm32f1_mpu6050.o
  .debug_macro   0x00000000       0x83 lib/bsp/MPU6050/stm32f1_mpu6050.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MPU6050/stm32f1_mpu6050.o
- .debug_line    0x00000000      0x7f7 lib/bsp/MPU6050/stm32f1_mpu6050.o
- .debug_str     0x00000000    0x779dd lib/bsp/MPU6050/stm32f1_mpu6050.o
+ .debug_line    0x00000000      0x80f lib/bsp/MPU6050/stm32f1_mpu6050.o
+ .debug_str     0x00000000    0x779e3 lib/bsp/MPU6050/stm32f1_mpu6050.o
  .comment       0x00000000       0x80 lib/bsp/MPU6050/stm32f1_mpu6050.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MPU6050/stm32f1_mpu6050.o
@@ -1888,8 +1888,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MatrixKeyboard/matrix_keyboard.o
  .debug_macro   0x00000000       0x83 lib/bsp/MatrixKeyboard/matrix_keyboard.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MatrixKeyboard/matrix_keyboard.o
- .debug_line    0x00000000      0x7fe lib/bsp/MatrixKeyboard/matrix_keyboard.o
- .debug_str     0x00000000    0x779e4 lib/bsp/MatrixKeyboard/matrix_keyboard.o
+ .debug_line    0x00000000      0x816 lib/bsp/MatrixKeyboard/matrix_keyboard.o
+ .debug_str     0x00000000    0x779ea lib/bsp/MatrixKeyboard/matrix_keyboard.o
  .comment       0x00000000       0x80 lib/bsp/MatrixKeyboard/matrix_keyboard.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MatrixKeyboard/matrix_keyboard.o
@@ -1993,8 +1993,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MatrixLed/WS2812B.o
  .debug_macro   0x00000000       0x83 lib/bsp/MatrixLed/WS2812B.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MatrixLed/WS2812B.o
- .debug_line    0x00000000      0x7f1 lib/bsp/MatrixLed/WS2812B.o
- .debug_str     0x00000000    0x779d7 lib/bsp/MatrixLed/WS2812B.o
+ .debug_line    0x00000000      0x809 lib/bsp/MatrixLed/WS2812B.o
+ .debug_str     0x00000000    0x779dd lib/bsp/MatrixLed/WS2812B.o
  .comment       0x00000000       0x80 lib/bsp/MatrixLed/WS2812B.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MatrixLed/WS2812B.o
@@ -2098,8 +2098,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MatrixLed/WS2812S.o
  .debug_macro   0x00000000       0x83 lib/bsp/MatrixLed/WS2812S.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MatrixLed/WS2812S.o
- .debug_line    0x00000000      0x7f1 lib/bsp/MatrixLed/WS2812S.o
- .debug_str     0x00000000    0x779d7 lib/bsp/MatrixLed/WS2812S.o
+ .debug_line    0x00000000      0x809 lib/bsp/MatrixLed/WS2812S.o
+ .debug_str     0x00000000    0x779dd lib/bsp/MatrixLed/WS2812S.o
  .comment       0x00000000       0x80 lib/bsp/MatrixLed/WS2812S.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MatrixLed/WS2812S.o
@@ -2216,8 +2216,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/MatrixLed/matrix_led_32_32.o
  .debug_macro   0x00000000       0x83 lib/bsp/MatrixLed/matrix_led_32_32.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/MatrixLed/matrix_led_32_32.o
- .debug_line    0x00000000      0x7fa lib/bsp/MatrixLed/matrix_led_32_32.o
- .debug_str     0x00000000    0x779e0 lib/bsp/MatrixLed/matrix_led_32_32.o
+ .debug_line    0x00000000      0x812 lib/bsp/MatrixLed/matrix_led_32_32.o
+ .debug_str     0x00000000    0x779e6 lib/bsp/MatrixLed/matrix_led_32_32.o
  .comment       0x00000000       0x80 lib/bsp/MatrixLed/matrix_led_32_32.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/MatrixLed/matrix_led_32_32.o
@@ -2321,8 +2321,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
- .debug_line    0x00000000      0x7f7 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
- .debug_str     0x00000000    0x779dd lib/bsp/NFC03A1/CR95HF/drv_95hf.o
+ .debug_line    0x00000000      0x80f lib/bsp/NFC03A1/CR95HF/drv_95hf.o
+ .debug_str     0x00000000    0x779e3 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/CR95HF/drv_95hf.o
@@ -2426,8 +2426,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
- .debug_line    0x00000000      0x80c lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
- .debug_str     0x00000000    0x779f2 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
+ .debug_line    0x00000000      0x824 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
+ .debug_str     0x00000000    0x779f8 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/common/lib_95HFConfigManager.o
@@ -2531,8 +2531,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
- .debug_line    0x00000000      0x809 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
- .debug_str     0x00000000    0x779ef lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
+ .debug_line    0x00000000      0x821 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
+ .debug_str     0x00000000    0x779f5 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_95HF_wrapper.o
@@ -2636,8 +2636,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
- .debug_line    0x00000000      0x801 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
- .debug_str     0x00000000    0x779e7 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
+ .debug_line    0x00000000      0x819 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
+ .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF.o
@@ -2741,8 +2741,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
- .debug_line    0x00000000      0x805 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
- .debug_str     0x00000000    0x779eb lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
+ .debug_line    0x00000000      0x81d lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_AAR.o
@@ -2846,8 +2846,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Email.o
@@ -2951,8 +2951,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
- .debug_line    0x00000000      0x805 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
- .debug_str     0x00000000    0x779eb lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
+ .debug_line    0x00000000      0x81d lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Geo.o
@@ -3056,8 +3056,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_MyApp.o
@@ -3161,8 +3161,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
- .debug_line    0x00000000      0x805 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
- .debug_str     0x00000000    0x779eb lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
+ .debug_line    0x00000000      0x81d lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_SMS.o
@@ -3266,8 +3266,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
- .debug_line    0x00000000      0x806 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
- .debug_str     0x00000000    0x779ec lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
+ .debug_line    0x00000000      0x81e lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
+ .debug_str     0x00000000    0x779f2 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Text.o
@@ -3371,8 +3371,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
- .debug_line    0x00000000      0x805 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
- .debug_str     0x00000000    0x779eb lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
+ .debug_line    0x00000000      0x81d lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_URI.o
@@ -3476,8 +3476,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_NDEF/lib_NDEF_Vcard.o
@@ -3581,8 +3581,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
- .debug_line    0x00000000      0x808 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
- .debug_str     0x00000000    0x779ee lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
+ .debug_line    0x00000000      0x820 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
+ .debug_str     0x00000000    0x779f4 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Apcd.o
@@ -3686,8 +3686,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
- .debug_line    0x00000000      0x808 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
- .debug_str     0x00000000    0x779ee lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
+ .debug_line    0x00000000      0x820 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
+ .debug_str     0x00000000    0x779f4 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso14443Bpcd.o
@@ -3791,8 +3791,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso15693pcd.o
@@ -3896,8 +3896,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso18092pcd.o
@@ -4001,8 +4001,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
- .debug_line    0x00000000      0x806 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
- .debug_str     0x00000000    0x779ec lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
+ .debug_line    0x00000000      0x81e lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
+ .debug_str     0x00000000    0x779f2 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_iso7816pcd.o
@@ -4106,8 +4106,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype1pcd.o
@@ -4211,8 +4211,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype2pcd.o
@@ -4316,8 +4316,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype3pcd.o
@@ -4421,8 +4421,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype4pcd.o
@@ -4526,8 +4526,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
- .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
- .debug_str     0x00000000    0x779ed lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
+ .debug_line    0x00000000      0x81f lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_nfctype5pcd.o
@@ -4631,8 +4631,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
- .debug_line    0x00000000      0x7ff lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
- .debug_str     0x00000000    0x779e5 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
+ .debug_line    0x00000000      0x817 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
+ .debug_str     0x00000000    0x779eb lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/lib_nfc/lib_pcd/lib_pcd.o
@@ -4736,8 +4736,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/nfc03a1.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/nfc03a1.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/nfc03a1.o
- .debug_line    0x00000000      0x7ef lib/bsp/NFC03A1/nfc03a1.o
- .debug_str     0x00000000    0x779d5 lib/bsp/NFC03A1/nfc03a1.o
+ .debug_line    0x00000000      0x807 lib/bsp/NFC03A1/nfc03a1.o
+ .debug_str     0x00000000    0x779db lib/bsp/NFC03A1/nfc03a1.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/nfc03a1.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/nfc03a1.o
@@ -4841,8 +4841,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/NFC03A1/stm32f1xx_it.o
  .debug_macro   0x00000000       0x83 lib/bsp/NFC03A1/stm32f1xx_it.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/NFC03A1/stm32f1xx_it.o
- .debug_line    0x00000000      0x7f4 lib/bsp/NFC03A1/stm32f1xx_it.o
- .debug_str     0x00000000    0x779da lib/bsp/NFC03A1/stm32f1xx_it.o
+ .debug_line    0x00000000      0x80c lib/bsp/NFC03A1/stm32f1xx_it.o
+ .debug_str     0x00000000    0x779e0 lib/bsp/NFC03A1/stm32f1xx_it.o
  .comment       0x00000000       0x80 lib/bsp/NFC03A1/stm32f1xx_it.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/NFC03A1/stm32f1xx_it.o
@@ -4946,8 +4946,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
- .debug_line    0x00000000      0x7f7 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
- .debug_str     0x00000000    0x779dd lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
+ .debug_line    0x00000000      0x80f lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
+ .debug_str     0x00000000    0x779e3 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/X-NUCLEO-53L0A1.o
@@ -5051,8 +5051,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
- .debug_line    0x00000000      0x801 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
- .debug_str     0x00000000    0x779e7 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
+ .debug_line    0x00000000      0x819 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
+ .debug_str     0x00000000    0x779ed lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53_x-nucleo-53l0A1_demo.o
@@ -5156,8 +5156,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0_demo.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0_demo.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0_demo.o
- .debug_line    0x00000000      0x7f3 lib/bsp/VL53L0X/vl53l0_demo.o
- .debug_str     0x00000000    0x779d9 lib/bsp/VL53L0X/vl53l0_demo.o
+ .debug_line    0x00000000      0x80b lib/bsp/VL53L0X/vl53l0_demo.o
+ .debug_str     0x00000000    0x779df lib/bsp/VL53L0X/vl53l0_demo.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0_demo.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0_demo.o
@@ -5261,8 +5261,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
- .debug_line    0x00000000      0x7f8 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
- .debug_str     0x00000000    0x779de lib/bsp/VL53L0X/vl53l0a1-f103msp.o
+ .debug_line    0x00000000      0x810 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
+ .debug_str     0x00000000    0x779e4 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0a1-f103msp.o
@@ -5366,8 +5366,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_api.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_api.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_api.o
- .debug_line    0x00000000      0x7f3 lib/bsp/VL53L0X/vl53l0x_api.o
- .debug_str     0x00000000    0x779d9 lib/bsp/VL53L0X/vl53l0x_api.o
+ .debug_line    0x00000000      0x80b lib/bsp/VL53L0X/vl53l0x_api.o
+ .debug_str     0x00000000    0x779df lib/bsp/VL53L0X/vl53l0x_api.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_api.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_api.o
@@ -5471,8 +5471,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
- .debug_line    0x00000000      0x7ff lib/bsp/VL53L0X/vl53l0x_api_calibration.o
- .debug_str     0x00000000    0x779e5 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
+ .debug_line    0x00000000      0x817 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
+ .debug_str     0x00000000    0x779eb lib/bsp/VL53L0X/vl53l0x_api_calibration.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_api_calibration.o
@@ -5576,8 +5576,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_api_core.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_api_core.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_api_core.o
- .debug_line    0x00000000      0x7f8 lib/bsp/VL53L0X/vl53l0x_api_core.o
- .debug_str     0x00000000    0x779de lib/bsp/VL53L0X/vl53l0x_api_core.o
+ .debug_line    0x00000000      0x810 lib/bsp/VL53L0X/vl53l0x_api_core.o
+ .debug_str     0x00000000    0x779e4 lib/bsp/VL53L0X/vl53l0x_api_core.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_api_core.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_api_core.o
@@ -5681,8 +5681,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
- .debug_line    0x00000000      0x7fb lib/bsp/VL53L0X/vl53l0x_api_ranging.o
- .debug_str     0x00000000    0x779e1 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
+ .debug_line    0x00000000      0x813 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
+ .debug_str     0x00000000    0x779e7 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_api_ranging.o
@@ -5786,8 +5786,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_api_strings.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_api_strings.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_api_strings.o
- .debug_line    0x00000000      0x7fb lib/bsp/VL53L0X/vl53l0x_api_strings.o
- .debug_str     0x00000000    0x779e1 lib/bsp/VL53L0X/vl53l0x_api_strings.o
+ .debug_line    0x00000000      0x813 lib/bsp/VL53L0X/vl53l0x_api_strings.o
+ .debug_str     0x00000000    0x779e7 lib/bsp/VL53L0X/vl53l0x_api_strings.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_api_strings.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_api_strings.o
@@ -5891,8 +5891,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_platform.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_platform.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_platform.o
- .debug_line    0x00000000      0x7f8 lib/bsp/VL53L0X/vl53l0x_platform.o
- .debug_str     0x00000000    0x779de lib/bsp/VL53L0X/vl53l0x_platform.o
+ .debug_line    0x00000000      0x810 lib/bsp/VL53L0X/vl53l0x_platform.o
+ .debug_str     0x00000000    0x779e4 lib/bsp/VL53L0X/vl53l0x_platform.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_platform.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_platform.o
@@ -5996,8 +5996,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/VL53L0X/vl53l0x_platform_log.o
  .debug_macro   0x00000000       0x83 lib/bsp/VL53L0X/vl53l0x_platform_log.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/VL53L0X/vl53l0x_platform_log.o
- .debug_line    0x00000000      0x7fc lib/bsp/VL53L0X/vl53l0x_platform_log.o
- .debug_str     0x00000000    0x779e2 lib/bsp/VL53L0X/vl53l0x_platform_log.o
+ .debug_line    0x00000000      0x814 lib/bsp/VL53L0X/vl53l0x_platform_log.o
+ .debug_str     0x00000000    0x779e8 lib/bsp/VL53L0X/vl53l0x_platform_log.o
  .comment       0x00000000       0x80 lib/bsp/VL53L0X/vl53l0x_platform_log.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/VL53L0X/vl53l0x_platform_log.o
@@ -6149,8 +6149,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x3d lib/bsp/bmp180/bmp180.o
  .debug_macro   0x00000000       0x16 lib/bsp/bmp180/bmp180.o
  .debug_macro   0x00000000      0x16f lib/bsp/bmp180/bmp180.o
- .debug_line    0x00000000      0x913 lib/bsp/bmp180/bmp180.o
- .debug_str     0x00000000    0x7b77e lib/bsp/bmp180/bmp180.o
+ .debug_line    0x00000000      0x92b lib/bsp/bmp180/bmp180.o
+ .debug_str     0x00000000    0x7b784 lib/bsp/bmp180/bmp180.o
  .comment       0x00000000       0x80 lib/bsp/bmp180/bmp180.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/bmp180/bmp180.o
@@ -6254,8 +6254,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/dac_mcp4921/dac_mcp4921.o
  .debug_macro   0x00000000       0x83 lib/bsp/dac_mcp4921/dac_mcp4921.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/dac_mcp4921/dac_mcp4921.o
- .debug_line    0x00000000      0x7f7 lib/bsp/dac_mcp4921/dac_mcp4921.o
- .debug_str     0x00000000    0x779dd lib/bsp/dac_mcp4921/dac_mcp4921.o
+ .debug_line    0x00000000      0x80f lib/bsp/dac_mcp4921/dac_mcp4921.o
+ .debug_str     0x00000000    0x779e3 lib/bsp/dac_mcp4921/dac_mcp4921.o
  .comment       0x00000000       0x80 lib/bsp/dac_mcp4921/dac_mcp4921.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/dac_mcp4921/dac_mcp4921.o
@@ -6359,8 +6359,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/Fonts/font12.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/Fonts/font12.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/Fonts/font12.o
- .debug_line    0x00000000      0x7f3 lib/bsp/epaper/Fonts/font12.o
- .debug_str     0x00000000    0x779d9 lib/bsp/epaper/Fonts/font12.o
+ .debug_line    0x00000000      0x80b lib/bsp/epaper/Fonts/font12.o
+ .debug_str     0x00000000    0x779df lib/bsp/epaper/Fonts/font12.o
  .comment       0x00000000       0x80 lib/bsp/epaper/Fonts/font12.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/Fonts/font12.o
@@ -6464,8 +6464,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/Fonts/font16.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/Fonts/font16.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/Fonts/font16.o
- .debug_line    0x00000000      0x7f3 lib/bsp/epaper/Fonts/font16.o
- .debug_str     0x00000000    0x779d9 lib/bsp/epaper/Fonts/font16.o
+ .debug_line    0x00000000      0x80b lib/bsp/epaper/Fonts/font16.o
+ .debug_str     0x00000000    0x779df lib/bsp/epaper/Fonts/font16.o
  .comment       0x00000000       0x80 lib/bsp/epaper/Fonts/font16.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/Fonts/font16.o
@@ -6569,8 +6569,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/Fonts/font20.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/Fonts/font20.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/Fonts/font20.o
- .debug_line    0x00000000      0x7f3 lib/bsp/epaper/Fonts/font20.o
- .debug_str     0x00000000    0x779d9 lib/bsp/epaper/Fonts/font20.o
+ .debug_line    0x00000000      0x80b lib/bsp/epaper/Fonts/font20.o
+ .debug_str     0x00000000    0x779df lib/bsp/epaper/Fonts/font20.o
  .comment       0x00000000       0x80 lib/bsp/epaper/Fonts/font20.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/Fonts/font20.o
@@ -6674,8 +6674,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/Fonts/font24.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/Fonts/font24.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/Fonts/font24.o
- .debug_line    0x00000000      0x7f3 lib/bsp/epaper/Fonts/font24.o
- .debug_str     0x00000000    0x779d9 lib/bsp/epaper/Fonts/font24.o
+ .debug_line    0x00000000      0x80b lib/bsp/epaper/Fonts/font24.o
+ .debug_str     0x00000000    0x779df lib/bsp/epaper/Fonts/font24.o
  .comment       0x00000000       0x80 lib/bsp/epaper/Fonts/font24.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/Fonts/font24.o
@@ -6779,8 +6779,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/Fonts/font8.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/Fonts/font8.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/Fonts/font8.o
- .debug_line    0x00000000      0x7f2 lib/bsp/epaper/Fonts/font8.o
- .debug_str     0x00000000    0x779d8 lib/bsp/epaper/Fonts/font8.o
+ .debug_line    0x00000000      0x80a lib/bsp/epaper/Fonts/font8.o
+ .debug_str     0x00000000    0x779de lib/bsp/epaper/Fonts/font8.o
  .comment       0x00000000       0x80 lib/bsp/epaper/Fonts/font8.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/Fonts/font8.o
@@ -6884,8 +6884,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/epaper_demo.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/epaper_demo.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/epaper_demo.o
- .debug_line    0x00000000      0x7f2 lib/bsp/epaper/epaper_demo.o
- .debug_str     0x00000000    0x779d8 lib/bsp/epaper/epaper_demo.o
+ .debug_line    0x00000000      0x80a lib/bsp/epaper/epaper_demo.o
+ .debug_str     0x00000000    0x779de lib/bsp/epaper/epaper_demo.o
  .comment       0x00000000       0x80 lib/bsp/epaper/epaper_demo.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/epaper_demo.o
@@ -6989,8 +6989,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/epd4in2.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/epd4in2.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/epd4in2.o
- .debug_line    0x00000000      0x7ee lib/bsp/epaper/epd4in2.o
- .debug_str     0x00000000    0x779d4 lib/bsp/epaper/epd4in2.o
+ .debug_line    0x00000000      0x806 lib/bsp/epaper/epd4in2.o
+ .debug_str     0x00000000    0x779da lib/bsp/epaper/epd4in2.o
  .comment       0x00000000       0x80 lib/bsp/epaper/epd4in2.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/epd4in2.o
@@ -7094,8 +7094,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/epdif.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/epdif.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/epdif.o
- .debug_line    0x00000000      0x7ec lib/bsp/epaper/epdif.o
- .debug_str     0x00000000    0x779d2 lib/bsp/epaper/epdif.o
+ .debug_line    0x00000000      0x804 lib/bsp/epaper/epdif.o
+ .debug_str     0x00000000    0x779d8 lib/bsp/epaper/epdif.o
  .comment       0x00000000       0x80 lib/bsp/epaper/epdif.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/epdif.o
@@ -7199,8 +7199,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/epdpaint.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/epdpaint.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/epdpaint.o
- .debug_line    0x00000000      0x7ef lib/bsp/epaper/epdpaint.o
- .debug_str     0x00000000    0x779d5 lib/bsp/epaper/epdpaint.o
+ .debug_line    0x00000000      0x807 lib/bsp/epaper/epdpaint.o
+ .debug_str     0x00000000    0x779db lib/bsp/epaper/epdpaint.o
  .comment       0x00000000       0x80 lib/bsp/epaper/epdpaint.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/epdpaint.o
@@ -7304,8 +7304,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/epaper/imagedata.o
  .debug_macro   0x00000000       0x83 lib/bsp/epaper/imagedata.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/epaper/imagedata.o
- .debug_line    0x00000000      0x7f0 lib/bsp/epaper/imagedata.o
- .debug_str     0x00000000    0x779d6 lib/bsp/epaper/imagedata.o
+ .debug_line    0x00000000      0x808 lib/bsp/epaper/imagedata.o
+ .debug_str     0x00000000    0x779dc lib/bsp/epaper/imagedata.o
  .comment       0x00000000       0x80 lib/bsp/epaper/imagedata.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/epaper/imagedata.o
@@ -7409,8 +7409,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/hx711/hx711.o
  .debug_macro   0x00000000       0x83 lib/bsp/hx711/hx711.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/hx711/hx711.o
- .debug_line    0x00000000      0x7f6 lib/bsp/hx711/hx711.o
- .debug_str     0x00000000    0x779e5 lib/bsp/hx711/hx711.o
+ .debug_line    0x00000000      0x80e lib/bsp/hx711/hx711.o
+ .debug_str     0x00000000    0x779eb lib/bsp/hx711/hx711.o
  .comment       0x00000000       0x80 lib/bsp/hx711/hx711.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/hx711/hx711.o
@@ -7514,8 +7514,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/hts221/HTS221_Driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/hts221/HTS221_Driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/hts221/HTS221_Driver.o
- .debug_line    0x00000000      0x7fc lib/bsp/iks01a1/hts221/HTS221_Driver.o
- .debug_str     0x00000000    0x779e2 lib/bsp/iks01a1/hts221/HTS221_Driver.o
+ .debug_line    0x00000000      0x814 lib/bsp/iks01a1/hts221/HTS221_Driver.o
+ .debug_str     0x00000000    0x779e8 lib/bsp/iks01a1/hts221/HTS221_Driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/hts221/HTS221_Driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/hts221/HTS221_Driver.o
@@ -7619,8 +7619,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
- .debug_line    0x00000000      0x7ff lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
- .debug_str     0x00000000    0x779e5 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
+ .debug_line    0x00000000      0x817 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
+ .debug_str     0x00000000    0x779eb lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/hts221/HTS221_Driver_HL.o
@@ -7724,8 +7724,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
- .debug_line    0x00000000      0x802 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
- .debug_str     0x00000000    0x779e8 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
+ .debug_line    0x00000000      0x81a lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
+ .debug_str     0x00000000    0x779ee lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver.o
@@ -7829,8 +7829,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
- .debug_line    0x00000000      0x805 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
- .debug_str     0x00000000    0x779eb lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
+ .debug_line    0x00000000      0x81d lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
+ .debug_str     0x00000000    0x779f1 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lis3mdl/LIS3MDL_MAG_driver_HL.o
@@ -7934,8 +7934,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
- .debug_line    0x00000000      0x7fe lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
- .debug_str     0x00000000    0x779e4 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
+ .debug_line    0x00000000      0x816 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
+ .debug_str     0x00000000    0x779ea lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver.o
@@ -8039,8 +8039,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
- .debug_line    0x00000000      0x801 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
- .debug_str     0x00000000    0x779e7 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
+ .debug_line    0x00000000      0x819 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
+ .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lps22hb/LPS22HB_Driver_HL.o
@@ -8144,8 +8144,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
- .debug_line    0x00000000      0x7fe lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
- .debug_str     0x00000000    0x779e4 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
+ .debug_line    0x00000000      0x816 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
+ .debug_str     0x00000000    0x779ea lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver.o
@@ -8249,8 +8249,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
- .debug_line    0x00000000      0x801 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
- .debug_str     0x00000000    0x779e7 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
+ .debug_line    0x00000000      0x819 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
+ .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lps25hb/LPS25HB_Driver_HL.o
@@ -8354,8 +8354,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
- .debug_line    0x00000000      0x807 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
- .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
+ .debug_line    0x00000000      0x81f lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver.o
@@ -8459,8 +8459,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
- .debug_line    0x00000000      0x80a lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
- .debug_str     0x00000000    0x779f0 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
+ .debug_line    0x00000000      0x822 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
+ .debug_str     0x00000000    0x779f6 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lsm6ds0/LSM6DS0_ACC_GYRO_driver_HL.o
@@ -8564,8 +8564,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
- .debug_line    0x00000000      0x807 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
- .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
+ .debug_line    0x00000000      0x81f lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
+ .debug_str     0x00000000    0x779f3 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver.o
@@ -8669,8 +8669,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
- .debug_line    0x00000000      0x80a lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
- .debug_str     0x00000000    0x779f0 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
+ .debug_line    0x00000000      0x822 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
+ .debug_str     0x00000000    0x779f6 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/lsm6ds3/LSM6DS3_ACC_GYRO_driver_HL.o
@@ -8774,8 +8774,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1.o
- .debug_line    0x00000000      0x7f8 lib/bsp/iks01a1/x_nucleo_iks01a1.o
- .debug_str     0x00000000    0x779de lib/bsp/iks01a1/x_nucleo_iks01a1.o
+ .debug_line    0x00000000      0x810 lib/bsp/iks01a1/x_nucleo_iks01a1.o
+ .debug_str     0x00000000    0x779e4 lib/bsp/iks01a1/x_nucleo_iks01a1.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1.o
@@ -8879,8 +8879,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
- .debug_line    0x00000000      0x801 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
- .debug_str     0x00000000    0x779e7 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
+ .debug_line    0x00000000      0x819 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
+ .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_accelero.o
@@ -8984,8 +8984,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
- .debug_line    0x00000000      0x7fd lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
- .debug_str     0x00000000    0x779e3 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
+ .debug_line    0x00000000      0x815 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
+ .debug_str     0x00000000    0x779e9 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_gyro.o
@@ -9089,8 +9089,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
- .debug_line    0x00000000      0x801 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
- .debug_str     0x00000000    0x779e7 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
+ .debug_line    0x00000000      0x819 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
+ .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_humidity.o
@@ -9194,8 +9194,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
- .debug_line    0x00000000      0x800 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
- .debug_str     0x00000000    0x779e6 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
+ .debug_line    0x00000000      0x818 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
+ .debug_str     0x00000000    0x779ec lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_magneto.o
@@ -9299,8 +9299,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
- .debug_line    0x00000000      0x801 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
- .debug_str     0x00000000    0x779e7 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
+ .debug_line    0x00000000      0x819 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
+ .debug_str     0x00000000    0x779ed lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_pressure.o
@@ -9404,8 +9404,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
  .debug_macro   0x00000000       0x83 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
- .debug_line    0x00000000      0x804 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
- .debug_str     0x00000000    0x779ea lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
+ .debug_line    0x00000000      0x81c lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
+ .debug_str     0x00000000    0x779f0 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
  .comment       0x00000000       0x80 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/iks01a1/x_nucleo_iks01a1_temperature.o
@@ -9509,8 +9509,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/ir/ir_emitter.o
  .debug_macro   0x00000000       0x83 lib/bsp/ir/ir_emitter.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/ir/ir_emitter.o
- .debug_line    0x00000000      0x7ed lib/bsp/ir/ir_emitter.o
- .debug_str     0x00000000    0x779d3 lib/bsp/ir/ir_emitter.o
+ .debug_line    0x00000000      0x805 lib/bsp/ir/ir_emitter.o
+ .debug_str     0x00000000    0x779d9 lib/bsp/ir/ir_emitter.o
  .comment       0x00000000       0x80 lib/bsp/ir/ir_emitter.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/ir/ir_emitter.o
@@ -9614,8 +9614,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/ir/ir_receiver.o
  .debug_macro   0x00000000       0x83 lib/bsp/ir/ir_receiver.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/ir/ir_receiver.o
- .debug_line    0x00000000      0x7ee lib/bsp/ir/ir_receiver.o
- .debug_str     0x00000000    0x779d4 lib/bsp/ir/ir_receiver.o
+ .debug_line    0x00000000      0x806 lib/bsp/ir/ir_receiver.o
+ .debug_str     0x00000000    0x779da lib/bsp/ir/ir_receiver.o
  .comment       0x00000000       0x80 lib/bsp/ir/ir_receiver.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/ir/ir_receiver.o
@@ -9719,8 +9719,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/ir/ir_receiver_nec.o
  .debug_macro   0x00000000       0x83 lib/bsp/ir/ir_receiver_nec.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/ir/ir_receiver_nec.o
- .debug_line    0x00000000      0x7f2 lib/bsp/ir/ir_receiver_nec.o
- .debug_str     0x00000000    0x779d8 lib/bsp/ir/ir_receiver_nec.o
+ .debug_line    0x00000000      0x80a lib/bsp/ir/ir_receiver_nec.o
+ .debug_str     0x00000000    0x779de lib/bsp/ir/ir_receiver_nec.o
  .comment       0x00000000       0x80 lib/bsp/ir/ir_receiver_nec.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/ir/ir_receiver_nec.o
@@ -9824,8 +9824,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/lcd2x16/lcd2x16.o
  .debug_macro   0x00000000       0x83 lib/bsp/lcd2x16/lcd2x16.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/lcd2x16/lcd2x16.o
- .debug_line    0x00000000      0x7ef lib/bsp/lcd2x16/lcd2x16.o
- .debug_str     0x00000000    0x779d5 lib/bsp/lcd2x16/lcd2x16.o
+ .debug_line    0x00000000      0x807 lib/bsp/lcd2x16/lcd2x16.o
+ .debug_str     0x00000000    0x779db lib/bsp/lcd2x16/lcd2x16.o
  .comment       0x00000000       0x80 lib/bsp/lcd2x16/lcd2x16.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/lcd2x16/lcd2x16.o
@@ -9929,8 +9929,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_adc.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_adc.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_adc.o
- .debug_line    0x00000000      0x7eb lib/bsp/stm32f1_adc.o
- .debug_str     0x00000000    0x779d1 lib/bsp/stm32f1_adc.o
+ .debug_line    0x00000000      0x803 lib/bsp/stm32f1_adc.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/stm32f1_adc.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_adc.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_adc.o
@@ -10187,8 +10187,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_flash.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_flash.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_flash.o
- .debug_line    0x00000000      0x800 lib/bsp/stm32f1_flash.o
- .debug_str     0x00000000    0x779e9 lib/bsp/stm32f1_flash.o
+ .debug_line    0x00000000      0x818 lib/bsp/stm32f1_flash.o
+ .debug_str     0x00000000    0x779ef lib/bsp/stm32f1_flash.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_flash.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_flash.o
@@ -10385,8 +10385,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_i2c.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_i2c.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_i2c.o
- .debug_line    0x00000000      0x7eb lib/bsp/stm32f1_i2c.o
- .debug_str     0x00000000    0x779d1 lib/bsp/stm32f1_i2c.o
+ .debug_line    0x00000000      0x803 lib/bsp/stm32f1_i2c.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/stm32f1_i2c.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_i2c.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_i2c.o
@@ -10490,8 +10490,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_motorDC.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_motorDC.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_motorDC.o
- .debug_line    0x00000000      0x7ef lib/bsp/stm32f1_motorDC.o
- .debug_str     0x00000000    0x779d5 lib/bsp/stm32f1_motorDC.o
+ .debug_line    0x00000000      0x807 lib/bsp/stm32f1_motorDC.o
+ .debug_str     0x00000000    0x779db lib/bsp/stm32f1_motorDC.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_motorDC.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_motorDC.o
@@ -10595,8 +10595,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_pwm.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_pwm.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_pwm.o
- .debug_line    0x00000000      0x7eb lib/bsp/stm32f1_pwm.o
- .debug_str     0x00000000    0x779d1 lib/bsp/stm32f1_pwm.o
+ .debug_line    0x00000000      0x803 lib/bsp/stm32f1_pwm.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/stm32f1_pwm.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_pwm.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_pwm.o
@@ -10700,8 +10700,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_rtc.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_rtc.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_rtc.o
- .debug_line    0x00000000      0x7eb lib/bsp/stm32f1_rtc.o
- .debug_str     0x00000000    0x779d1 lib/bsp/stm32f1_rtc.o
+ .debug_line    0x00000000      0x803 lib/bsp/stm32f1_rtc.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/stm32f1_rtc.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_rtc.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_rtc.o
@@ -10805,8 +10805,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/stm32f1_sd.o
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1_sd.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1_sd.o
- .debug_line    0x00000000      0x7ea lib/bsp/stm32f1_sd.o
- .debug_str     0x00000000    0x779d0 lib/bsp/stm32f1_sd.o
+ .debug_line    0x00000000      0x802 lib/bsp/stm32f1_sd.o
+ .debug_str     0x00000000    0x779d6 lib/bsp/stm32f1_sd.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_sd.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/stm32f1_sd.o
@@ -10988,8 +10988,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x16f lib/bsp/stm32f1_spi.o
  .debug_macro   0x00000000       0x88 lib/bsp/stm32f1_spi.o
  .debug_macro   0x00000000      0x1e9 lib/bsp/stm32f1_spi.o
- .debug_line    0x00000000      0xadc lib/bsp/stm32f1_spi.o
- .debug_str     0x00000000    0x7c242 lib/bsp/stm32f1_spi.o
+ .debug_line    0x00000000      0xaf4 lib/bsp/stm32f1_spi.o
+ .debug_str     0x00000000    0x7c248 lib/bsp/stm32f1_spi.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1_spi.o
  .debug_frame   0x00000000      0x164 lib/bsp/stm32f1_spi.o
  .ARM.attributes
@@ -11925,8 +11925,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x83 lib/bsp/stm32f1xx_nucleo.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/stm32f1xx_nucleo.o
  .debug_macro   0x00000000      0x165 lib/bsp/stm32f1xx_nucleo.o
- .debug_line    0x00000000      0xadd lib/bsp/stm32f1xx_nucleo.o
- .debug_str     0x00000000    0x791af lib/bsp/stm32f1xx_nucleo.o
+ .debug_line    0x00000000      0xaf5 lib/bsp/stm32f1xx_nucleo.o
+ .debug_str     0x00000000    0x791b5 lib/bsp/stm32f1xx_nucleo.o
  .comment       0x00000000       0x80 lib/bsp/stm32f1xx_nucleo.o
  .debug_frame   0x00000000      0x2ec lib/bsp/stm32f1xx_nucleo.o
  .ARM.attributes
@@ -12291,8 +12291,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x32a lib/bsp/tft_ili9341/stm32f1_fonts.o
  .debug_macro   0x00000000       0x10 lib/bsp/tft_ili9341/stm32f1_fonts.o
  .debug_macro   0x00000000       0x35 lib/bsp/tft_ili9341/stm32f1_fonts.o
- .debug_line    0x00000000      0x8b8 lib/bsp/tft_ili9341/stm32f1_fonts.o
- .debug_str     0x00000000    0x7a5cc lib/bsp/tft_ili9341/stm32f1_fonts.o
+ .debug_line    0x00000000      0x8d0 lib/bsp/tft_ili9341/stm32f1_fonts.o
+ .debug_str     0x00000000    0x7a5d2 lib/bsp/tft_ili9341/stm32f1_fonts.o
  .comment       0x00000000       0x80 lib/bsp/tft_ili9341/stm32f1_fonts.o
  .debug_frame   0x00000000       0x2c lib/bsp/tft_ili9341/stm32f1_fonts.o
  .ARM.attributes
@@ -12399,8 +12399,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x83 lib/bsp/tft_ili9341/stm32f1_ili9341.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/tft_ili9341/stm32f1_ili9341.o
  .debug_macro   0x00000000       0x58 lib/bsp/tft_ili9341/stm32f1_ili9341.o
- .debug_line    0x00000000      0x807 lib/bsp/tft_ili9341/stm32f1_ili9341.o
- .debug_str     0x00000000    0x77b10 lib/bsp/tft_ili9341/stm32f1_ili9341.o
+ .debug_line    0x00000000      0x81f lib/bsp/tft_ili9341/stm32f1_ili9341.o
+ .debug_str     0x00000000    0x77b16 lib/bsp/tft_ili9341/stm32f1_ili9341.o
  .comment       0x00000000       0x80 lib/bsp/tft_ili9341/stm32f1_ili9341.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/tft_ili9341/stm32f1_ili9341.o
@@ -12504,8 +12504,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
  .debug_macro   0x00000000       0x83 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
- .debug_line    0x00000000      0x7fb lib/bsp/tft_ili9341/stm32f1_xpt2046.o
- .debug_str     0x00000000    0x779e1 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
+ .debug_line    0x00000000      0x813 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
+ .debug_str     0x00000000    0x779e7 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
  .comment       0x00000000       0x80 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/tft_ili9341/stm32f1_xpt2046.o
@@ -12609,8 +12609,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
  .debug_macro   0x00000000       0x83 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
- .debug_line    0x00000000      0x7fb lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
- .debug_str     0x00000000    0x779e1 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
+ .debug_line    0x00000000      0x813 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
+ .debug_str     0x00000000    0x779e7 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
  .comment       0x00000000       0x80 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/tft_pcd8544/stm32f1_pcd8544.o
@@ -12714,8 +12714,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/trace/Trace.o
  .debug_macro   0x00000000       0x83 lib/bsp/trace/Trace.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/trace/Trace.o
- .debug_line    0x00000000      0x7eb lib/bsp/trace/Trace.o
- .debug_str     0x00000000    0x779d1 lib/bsp/trace/Trace.o
+ .debug_line    0x00000000      0x803 lib/bsp/trace/Trace.o
+ .debug_str     0x00000000    0x779d7 lib/bsp/trace/Trace.o
  .comment       0x00000000       0x80 lib/bsp/trace/Trace.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/trace/Trace.o
@@ -12819,8 +12819,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/bsp/trace/trace_impl.o
  .debug_macro   0x00000000       0x83 lib/bsp/trace/trace_impl.o
  .debug_macro   0x00000000      0x1e3 lib/bsp/trace/trace_impl.o
- .debug_line    0x00000000      0x7f0 lib/bsp/trace/trace_impl.o
- .debug_str     0x00000000    0x779d6 lib/bsp/trace/trace_impl.o
+ .debug_line    0x00000000      0x808 lib/bsp/trace/trace_impl.o
+ .debug_str     0x00000000    0x779dc lib/bsp/trace/trace_impl.o
  .comment       0x00000000       0x80 lib/bsp/trace/trace_impl.o
  .ARM.attributes
                 0x00000000       0x33 lib/bsp/trace/trace_impl.o
@@ -12922,8 +12922,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/Legacy/stm32f1xx_hal_can.o
  .debug_macro   0x00000000      0x249 lib/hal/src/Legacy/stm32f1xx_hal_can.o
  .debug_macro   0x00000000       0x83 lib/hal/src/Legacy/stm32f1xx_hal_can.o
- .debug_line    0x00000000      0x7a7 lib/hal/src/Legacy/stm32f1xx_hal_can.o
- .debug_str     0x00000000    0x77526 lib/hal/src/Legacy/stm32f1xx_hal_can.o
+ .debug_line    0x00000000      0x7b9 lib/hal/src/Legacy/stm32f1xx_hal_can.o
+ .debug_str     0x00000000    0x7752c lib/hal/src/Legacy/stm32f1xx_hal_can.o
  .comment       0x00000000       0x80 lib/hal/src/Legacy/stm32f1xx_hal_can.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/Legacy/stm32f1xx_hal_can.o
@@ -13216,8 +13216,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_adc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_adc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_adc.o
- .debug_line    0x00000000      0xce7 lib/hal/src/stm32f1xx_hal_adc.o
- .debug_str     0x00000000    0x77c53 lib/hal/src/stm32f1xx_hal_adc.o
+ .debug_line    0x00000000      0xcf9 lib/hal/src/stm32f1xx_hal_adc.o
+ .debug_str     0x00000000    0x77c59 lib/hal/src/stm32f1xx_hal_adc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_adc.o
  .debug_frame   0x00000000      0x2c4 lib/hal/src/stm32f1xx_hal_adc.o
  .ARM.attributes
@@ -13348,8 +13348,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_adc_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_adc_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_adc_ex.o
- .debug_line    0x00000000      0xb39 lib/hal/src/stm32f1xx_hal_adc_ex.o
- .debug_str     0x00000000    0x77c0b lib/hal/src/stm32f1xx_hal_adc_ex.o
+ .debug_line    0x00000000      0xb4b lib/hal/src/stm32f1xx_hal_adc_ex.o
+ .debug_str     0x00000000    0x77c11 lib/hal/src/stm32f1xx_hal_adc_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_adc_ex.o
  .debug_frame   0x00000000      0x190 lib/hal/src/stm32f1xx_hal_adc_ex.o
  .ARM.attributes
@@ -13452,8 +13452,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_can.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_can.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_can.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_can.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_can.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_can.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_can.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_can.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_can.o
@@ -13555,8 +13555,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_cec.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_cec.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_cec.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_cec.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_cec.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_cec.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_cec.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_cec.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_cec.o
@@ -13769,8 +13769,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_crc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_crc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_crc.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_crc.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_crc.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_crc.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_crc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_crc.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_crc.o
@@ -13872,8 +13872,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_dac.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_dac.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_dac.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_dac.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_dac.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_dac.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_dac.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_dac.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_dac.o
@@ -13975,8 +13975,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_dac_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_dac_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_dac_ex.o
- .debug_line    0x00000000      0x7a3 lib/hal/src/stm32f1xx_hal_dac_ex.o
- .debug_str     0x00000000    0x77522 lib/hal/src/stm32f1xx_hal_dac_ex.o
+ .debug_line    0x00000000      0x7b5 lib/hal/src/stm32f1xx_hal_dac_ex.o
+ .debug_str     0x00000000    0x77528 lib/hal/src/stm32f1xx_hal_dac_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_dac_ex.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_dac_ex.o
@@ -14195,8 +14195,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_eth.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_eth.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_eth.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_eth.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_eth.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_eth.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_eth.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_eth.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_eth.o
@@ -14298,8 +14298,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_exti.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_exti.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_exti.o
- .debug_line    0x00000000      0x7a1 lib/hal/src/stm32f1xx_hal_exti.o
- .debug_str     0x00000000    0x77520 lib/hal/src/stm32f1xx_hal_exti.o
+ .debug_line    0x00000000      0x7b3 lib/hal/src/stm32f1xx_hal_exti.o
+ .debug_str     0x00000000    0x77526 lib/hal/src/stm32f1xx_hal_exti.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_exti.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_exti.o
@@ -14431,8 +14431,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_flash.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_flash.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_flash.o
- .debug_line    0x00000000      0x9a2 lib/hal/src/stm32f1xx_hal_flash.o
- .debug_str     0x00000000    0x77885 lib/hal/src/stm32f1xx_hal_flash.o
+ .debug_line    0x00000000      0x9b4 lib/hal/src/stm32f1xx_hal_flash.o
+ .debug_str     0x00000000    0x7788b lib/hal/src/stm32f1xx_hal_flash.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_flash.o
  .debug_frame   0x00000000      0x134 lib/hal/src/stm32f1xx_hal_flash.o
  .ARM.attributes
@@ -14570,8 +14570,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_flash_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_flash_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_flash_ex.o
- .debug_line    0x00000000      0xa33 lib/hal/src/stm32f1xx_hal_flash_ex.o
- .debug_str     0x00000000    0x77a33 lib/hal/src/stm32f1xx_hal_flash_ex.o
+ .debug_line    0x00000000      0xa45 lib/hal/src/stm32f1xx_hal_flash_ex.o
+ .debug_str     0x00000000    0x77a39 lib/hal/src/stm32f1xx_hal_flash_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_flash_ex.o
  .debug_frame   0x00000000      0x194 lib/hal/src/stm32f1xx_hal_flash_ex.o
  .ARM.attributes
@@ -14787,8 +14787,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_gpio_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_gpio_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_gpio_ex.o
- .debug_line    0x00000000      0x7da lib/hal/src/stm32f1xx_hal_gpio_ex.o
- .debug_str     0x00000000    0x775bf lib/hal/src/stm32f1xx_hal_gpio_ex.o
+ .debug_line    0x00000000      0x7ec lib/hal/src/stm32f1xx_hal_gpio_ex.o
+ .debug_str     0x00000000    0x775c5 lib/hal/src/stm32f1xx_hal_gpio_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_gpio_ex.o
  .debug_frame   0x00000000       0x40 lib/hal/src/stm32f1xx_hal_gpio_ex.o
  .ARM.attributes
@@ -14891,8 +14891,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_hcd.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_hcd.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_hcd.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_hcd.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_hcd.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_hcd.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_hcd.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_hcd.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_hcd.o
@@ -15144,8 +15144,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_i2c.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_i2c.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_i2c.o
- .debug_line    0x00000000     0x1a05 lib/hal/src/stm32f1xx_hal_i2c.o
- .debug_str     0x00000000    0x78481 lib/hal/src/stm32f1xx_hal_i2c.o
+ .debug_line    0x00000000     0x1a17 lib/hal/src/stm32f1xx_hal_i2c.o
+ .debug_str     0x00000000    0x78487 lib/hal/src/stm32f1xx_hal_i2c.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_i2c.o
  .debug_frame   0x00000000      0x87c lib/hal/src/stm32f1xx_hal_i2c.o
  .ARM.attributes
@@ -15248,8 +15248,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_i2s.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_i2s.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_i2s.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_i2s.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_i2s.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_i2s.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_i2s.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_i2s.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_i2s.o
@@ -15351,8 +15351,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_irda.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_irda.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_irda.o
- .debug_line    0x00000000      0x7a1 lib/hal/src/stm32f1xx_hal_irda.o
- .debug_str     0x00000000    0x77520 lib/hal/src/stm32f1xx_hal_irda.o
+ .debug_line    0x00000000      0x7b3 lib/hal/src/stm32f1xx_hal_irda.o
+ .debug_str     0x00000000    0x77526 lib/hal/src/stm32f1xx_hal_irda.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_irda.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_irda.o
@@ -15460,8 +15460,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_iwdg.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_iwdg.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_iwdg.o
- .debug_line    0x00000000      0x7d8 lib/hal/src/stm32f1xx_hal_iwdg.o
- .debug_str     0x00000000    0x77606 lib/hal/src/stm32f1xx_hal_iwdg.o
+ .debug_line    0x00000000      0x7ea lib/hal/src/stm32f1xx_hal_iwdg.o
+ .debug_str     0x00000000    0x7760c lib/hal/src/stm32f1xx_hal_iwdg.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_iwdg.o
  .debug_frame   0x00000000       0x44 lib/hal/src/stm32f1xx_hal_iwdg.o
  .ARM.attributes
@@ -15564,8 +15564,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_mmc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_mmc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_mmc.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_mmc.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_mmc.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_mmc.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_mmc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_mmc.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_mmc.o
@@ -15676,8 +15676,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_msp_template.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_msp_template.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_msp_template.o
- .debug_line    0x00000000      0x7ed lib/hal/src/stm32f1xx_hal_msp_template.o
- .debug_str     0x00000000    0x77564 lib/hal/src/stm32f1xx_hal_msp_template.o
+ .debug_line    0x00000000      0x7ff lib/hal/src/stm32f1xx_hal_msp_template.o
+ .debug_str     0x00000000    0x7756a lib/hal/src/stm32f1xx_hal_msp_template.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_msp_template.o
  .debug_frame   0x00000000       0x50 lib/hal/src/stm32f1xx_hal_msp_template.o
  .ARM.attributes
@@ -15780,8 +15780,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_nand.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_nand.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_nand.o
- .debug_line    0x00000000      0x7a1 lib/hal/src/stm32f1xx_hal_nand.o
- .debug_str     0x00000000    0x77520 lib/hal/src/stm32f1xx_hal_nand.o
+ .debug_line    0x00000000      0x7b3 lib/hal/src/stm32f1xx_hal_nand.o
+ .debug_str     0x00000000    0x77526 lib/hal/src/stm32f1xx_hal_nand.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_nand.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_nand.o
@@ -15883,8 +15883,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_nor.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_nor.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_nor.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_hal_nor.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_hal_nor.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_hal_nor.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_nor.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_nor.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_nor.o
@@ -15986,8 +15986,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_pccard.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_pccard.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_pccard.o
- .debug_line    0x00000000      0x7a3 lib/hal/src/stm32f1xx_hal_pccard.o
- .debug_str     0x00000000    0x77522 lib/hal/src/stm32f1xx_hal_pccard.o
+ .debug_line    0x00000000      0x7b5 lib/hal/src/stm32f1xx_hal_pccard.o
+ .debug_str     0x00000000    0x77528 lib/hal/src/stm32f1xx_hal_pccard.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_pccard.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_pccard.o
@@ -16242,8 +16242,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_pcd_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_pcd_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_pcd_ex.o
- .debug_line    0x00000000      0x7f4 lib/hal/src/stm32f1xx_hal_pcd_ex.o
- .debug_str     0x00000000    0x77a05 lib/hal/src/stm32f1xx_hal_pcd_ex.o
+ .debug_line    0x00000000      0x806 lib/hal/src/stm32f1xx_hal_pcd_ex.o
+ .debug_str     0x00000000    0x77a0b lib/hal/src/stm32f1xx_hal_pcd_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_pcd_ex.o
  .debug_frame   0x00000000       0x50 lib/hal/src/stm32f1xx_hal_pcd_ex.o
  .ARM.attributes
@@ -16384,8 +16384,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_pwr.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_pwr.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_pwr.o
- .debug_line    0x00000000      0x91f lib/hal/src/stm32f1xx_hal_pwr.o
- .debug_str     0x00000000    0x77ae1 lib/hal/src/stm32f1xx_hal_pwr.o
+ .debug_line    0x00000000      0x931 lib/hal/src/stm32f1xx_hal_pwr.o
+ .debug_str     0x00000000    0x77ae7 lib/hal/src/stm32f1xx_hal_pwr.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_pwr.o
  .debug_frame   0x00000000      0x140 lib/hal/src/stm32f1xx_hal_pwr.o
  .ARM.attributes
@@ -16753,8 +16753,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_rtc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_rtc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_rtc.o
- .debug_line    0x00000000      0xcb1 lib/hal/src/stm32f1xx_hal_rtc.o
- .debug_str     0x00000000    0x77ab5 lib/hal/src/stm32f1xx_hal_rtc.o
+ .debug_line    0x00000000      0xcc3 lib/hal/src/stm32f1xx_hal_rtc.o
+ .debug_str     0x00000000    0x77abb lib/hal/src/stm32f1xx_hal_rtc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_rtc.o
  .debug_frame   0x00000000      0x358 lib/hal/src/stm32f1xx_hal_rtc.o
  .ARM.attributes
@@ -16887,8 +16887,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_rtc_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_rtc_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_rtc_ex.o
- .debug_line    0x00000000      0x9e1 lib/hal/src/stm32f1xx_hal_rtc_ex.o
- .debug_str     0x00000000    0x778f7 lib/hal/src/stm32f1xx_hal_rtc_ex.o
+ .debug_line    0x00000000      0x9f3 lib/hal/src/stm32f1xx_hal_rtc_ex.o
+ .debug_str     0x00000000    0x778fd lib/hal/src/stm32f1xx_hal_rtc_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_rtc_ex.o
  .debug_frame   0x00000000      0x134 lib/hal/src/stm32f1xx_hal_rtc_ex.o
  .ARM.attributes
@@ -16991,8 +16991,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_sd.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_sd.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_sd.o
- .debug_line    0x00000000      0x79f lib/hal/src/stm32f1xx_hal_sd.o
- .debug_str     0x00000000    0x7751e lib/hal/src/stm32f1xx_hal_sd.o
+ .debug_line    0x00000000      0x7b1 lib/hal/src/stm32f1xx_hal_sd.o
+ .debug_str     0x00000000    0x77524 lib/hal/src/stm32f1xx_hal_sd.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_sd.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_sd.o
@@ -17094,8 +17094,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_smartcard.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_smartcard.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_smartcard.o
- .debug_line    0x00000000      0x7a6 lib/hal/src/stm32f1xx_hal_smartcard.o
- .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_hal_smartcard.o
+ .debug_line    0x00000000      0x7b8 lib/hal/src/stm32f1xx_hal_smartcard.o
+ .debug_str     0x00000000    0x7752b lib/hal/src/stm32f1xx_hal_smartcard.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_smartcard.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_smartcard.o
@@ -17317,8 +17317,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_spi.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_spi.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_spi.o
- .debug_line    0x00000000     0x12c5 lib/hal/src/stm32f1xx_hal_spi.o
- .debug_str     0x00000000    0x77eca lib/hal/src/stm32f1xx_hal_spi.o
+ .debug_line    0x00000000     0x12d7 lib/hal/src/stm32f1xx_hal_spi.o
+ .debug_str     0x00000000    0x77ed0 lib/hal/src/stm32f1xx_hal_spi.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_spi.o
  .debug_frame   0x00000000      0x5f8 lib/hal/src/stm32f1xx_hal_spi.o
  .ARM.attributes
@@ -17429,8 +17429,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_spi_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_spi_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_spi_ex.o
- .debug_line    0x00000000      0x7e2 lib/hal/src/stm32f1xx_hal_spi_ex.o
- .debug_str     0x00000000    0x77956 lib/hal/src/stm32f1xx_hal_spi_ex.o
+ .debug_line    0x00000000      0x7f4 lib/hal/src/stm32f1xx_hal_spi_ex.o
+ .debug_str     0x00000000    0x7795c lib/hal/src/stm32f1xx_hal_spi_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_spi_ex.o
  .debug_frame   0x00000000       0x3c lib/hal/src/stm32f1xx_hal_spi_ex.o
  .ARM.attributes
@@ -17533,8 +17533,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_sram.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_sram.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_sram.o
- .debug_line    0x00000000      0x7a1 lib/hal/src/stm32f1xx_hal_sram.o
- .debug_str     0x00000000    0x77520 lib/hal/src/stm32f1xx_hal_sram.o
+ .debug_line    0x00000000      0x7b3 lib/hal/src/stm32f1xx_hal_sram.o
+ .debug_str     0x00000000    0x77526 lib/hal/src/stm32f1xx_hal_sram.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_sram.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_hal_sram.o
@@ -17866,8 +17866,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_tim.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_tim.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_tim.o
- .debug_line    0x00000000     0x18ca lib/hal/src/stm32f1xx_hal_tim.o
- .debug_str     0x00000000    0x78799 lib/hal/src/stm32f1xx_hal_tim.o
+ .debug_line    0x00000000     0x18dc lib/hal/src/stm32f1xx_hal_tim.o
+ .debug_str     0x00000000    0x7879f lib/hal/src/stm32f1xx_hal_tim.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_tim.o
  .debug_frame   0x00000000      0xa90 lib/hal/src/stm32f1xx_hal_tim.o
  .ARM.attributes
@@ -18050,8 +18050,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_tim_ex.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_tim_ex.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_tim_ex.o
- .debug_line    0x00000000      0xdb9 lib/hal/src/stm32f1xx_hal_tim_ex.o
- .debug_str     0x00000000    0x77fb1 lib/hal/src/stm32f1xx_hal_tim_ex.o
+ .debug_line    0x00000000      0xdcb lib/hal/src/stm32f1xx_hal_tim_ex.o
+ .debug_str     0x00000000    0x77fb7 lib/hal/src/stm32f1xx_hal_tim_ex.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_tim_ex.o
  .debug_frame   0x00000000      0x3b8 lib/hal/src/stm32f1xx_hal_tim_ex.o
  .ARM.attributes
@@ -18425,8 +18425,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_usart.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_usart.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_usart.o
- .debug_line    0x00000000     0x102f lib/hal/src/stm32f1xx_hal_usart.o
- .debug_str     0x00000000    0x77dca lib/hal/src/stm32f1xx_hal_usart.o
+ .debug_line    0x00000000     0x1041 lib/hal/src/stm32f1xx_hal_usart.o
+ .debug_str     0x00000000    0x77dd0 lib/hal/src/stm32f1xx_hal_usart.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_usart.o
  .debug_frame   0x00000000      0x41c lib/hal/src/stm32f1xx_hal_usart.o
  .ARM.attributes
@@ -18541,8 +18541,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_hal_wwdg.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_hal_wwdg.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_hal_wwdg.o
- .debug_line    0x00000000      0x80e lib/hal/src/stm32f1xx_hal_wwdg.o
- .debug_str     0x00000000    0x77625 lib/hal/src/stm32f1xx_hal_wwdg.o
+ .debug_line    0x00000000      0x820 lib/hal/src/stm32f1xx_hal_wwdg.o
+ .debug_str     0x00000000    0x7762b lib/hal/src/stm32f1xx_hal_wwdg.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_hal_wwdg.o
  .debug_frame   0x00000000       0x74 lib/hal/src/stm32f1xx_hal_wwdg.o
  .ARM.attributes
@@ -18720,8 +18720,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_ll_fsmc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_ll_fsmc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_ll_fsmc.o
- .debug_line    0x00000000      0x7a0 lib/hal/src/stm32f1xx_ll_fsmc.o
- .debug_str     0x00000000    0x7751f lib/hal/src/stm32f1xx_ll_fsmc.o
+ .debug_line    0x00000000      0x7b2 lib/hal/src/stm32f1xx_ll_fsmc.o
+ .debug_str     0x00000000    0x77525 lib/hal/src/stm32f1xx_ll_fsmc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_ll_fsmc.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_ll_fsmc.o
@@ -18898,8 +18898,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x65 lib/hal/src/stm32f1xx_ll_sdmmc.o
  .debug_macro   0x00000000      0x249 lib/hal/src/stm32f1xx_ll_sdmmc.o
  .debug_macro   0x00000000       0x83 lib/hal/src/stm32f1xx_ll_sdmmc.o
- .debug_line    0x00000000      0x7a1 lib/hal/src/stm32f1xx_ll_sdmmc.o
- .debug_str     0x00000000    0x77520 lib/hal/src/stm32f1xx_ll_sdmmc.o
+ .debug_line    0x00000000      0x7b3 lib/hal/src/stm32f1xx_ll_sdmmc.o
+ .debug_str     0x00000000    0x77526 lib/hal/src/stm32f1xx_ll_sdmmc.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_ll_sdmmc.o
  .ARM.attributes
                 0x00000000       0x33 lib/hal/src/stm32f1xx_ll_sdmmc.o
@@ -19207,8 +19207,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x2b2 lib/hal/src/stm32f1xx_ll_utils.o
  .debug_macro   0x00000000       0x2a lib/hal/src/stm32f1xx_ll_utils.o
  .debug_macro   0x00000000       0x78 lib/hal/src/stm32f1xx_ll_utils.o
- .debug_line    0x00000000      0x9a9 lib/hal/src/stm32f1xx_ll_utils.o
- .debug_str     0x00000000    0x79686 lib/hal/src/stm32f1xx_ll_utils.o
+ .debug_line    0x00000000      0x9bb lib/hal/src/stm32f1xx_ll_utils.o
+ .debug_str     0x00000000    0x7968c lib/hal/src/stm32f1xx_ll_utils.o
  .comment       0x00000000       0x80 lib/hal/src/stm32f1xx_ll_utils.o
  .debug_frame   0x00000000       0xd4 lib/hal/src/stm32f1xx_ll_utils.o
  .ARM.attributes
@@ -19549,8 +19549,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x8e lib/middleware/MIDI/usb_device.o
  .debug_macro   0x00000000      0x1e9 lib/middleware/MIDI/usb_device.o
  .debug_macro   0x00000000       0x22 lib/middleware/MIDI/usb_device.o
- .debug_line    0x00000000      0xa0e lib/middleware/MIDI/usb_device.o
- .debug_str     0x00000000    0x7ca8a lib/middleware/MIDI/usb_device.o
+ .debug_line    0x00000000      0xa26 lib/middleware/MIDI/usb_device.o
+ .debug_str     0x00000000    0x7ca90 lib/middleware/MIDI/usb_device.o
  .comment       0x00000000       0x80 lib/middleware/MIDI/usb_device.o
  .debug_frame   0x00000000       0x28 lib/middleware/MIDI/usb_device.o
  .ARM.attributes
@@ -20263,8 +20263,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x6a lib/middleware/MIDI/usbd_desc.o
  .debug_macro   0x00000000      0x1c8 lib/middleware/MIDI/usbd_desc.o
  .debug_macro   0x00000000       0x22 lib/middleware/MIDI/usbd_desc.o
- .debug_line    0x00000000      0xa3a lib/middleware/MIDI/usbd_desc.o
- .debug_str     0x00000000    0x7c1ac lib/middleware/MIDI/usbd_desc.o
+ .debug_line    0x00000000      0xa4c lib/middleware/MIDI/usbd_desc.o
+ .debug_str     0x00000000    0x7c1b2 lib/middleware/MIDI/usbd_desc.o
  .comment       0x00000000       0x80 lib/middleware/MIDI/usbd_desc.o
  .debug_frame   0x00000000       0xe0 lib/middleware/MIDI/usbd_desc.o
  .ARM.attributes
@@ -20627,8 +20627,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1c2 lib/middleware/MIDI/usbd_midi.o
  .debug_macro   0x00000000       0x8e lib/middleware/MIDI/usbd_midi.o
  .debug_macro   0x00000000      0x1e9 lib/middleware/MIDI/usbd_midi.o
- .debug_line    0x00000000      0xb65 lib/middleware/MIDI/usbd_midi.o
- .debug_str     0x00000000    0x7cefe lib/middleware/MIDI/usbd_midi.o
+ .debug_line    0x00000000      0xb7d lib/middleware/MIDI/usbd_midi.o
+ .debug_str     0x00000000    0x7cf04 lib/middleware/MIDI/usbd_midi.o
  .comment       0x00000000       0x80 lib/middleware/MIDI/usbd_midi.o
  .debug_frame   0x00000000      0x144 lib/middleware/MIDI/usbd_midi.o
  .ARM.attributes
@@ -20809,8 +20809,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x6a lib/middleware/MIDI/usbd_midi_if.o
  .debug_macro   0x00000000      0x1c2 lib/middleware/MIDI/usbd_midi_if.o
  .debug_macro   0x00000000       0x8e lib/middleware/MIDI/usbd_midi_if.o
- .debug_line    0x00000000      0xa39 lib/middleware/MIDI/usbd_midi_if.o
- .debug_str     0x00000000    0x7cb04 lib/middleware/MIDI/usbd_midi_if.o
+ .debug_line    0x00000000      0xa51 lib/middleware/MIDI/usbd_midi_if.o
+ .debug_str     0x00000000    0x7cb0a lib/middleware/MIDI/usbd_midi_if.o
  .comment       0x00000000       0x80 lib/middleware/MIDI/usbd_midi_if.o
  .debug_frame   0x00000000       0x78 lib/middleware/MIDI/usbd_midi_if.o
  .ARM.attributes
@@ -20916,8 +20916,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x249 lib/middleware/dialog.o
  .debug_macro   0x00000000       0x83 lib/middleware/dialog.o
  .debug_macro   0x00000000      0x1e3 lib/middleware/dialog.o
- .debug_line    0x00000000      0x7ed lib/middleware/dialog.o
- .debug_str     0x00000000    0x779d3 lib/middleware/dialog.o
+ .debug_line    0x00000000      0x805 lib/middleware/dialog.o
+ .debug_str     0x00000000    0x779d9 lib/middleware/dialog.o
  .comment       0x00000000       0x80 lib/middleware/dialog.o
  .ARM.attributes
                 0x00000000       0x33 lib/middleware/dialog.o
@@ -23125,81 +23125,80 @@ OUTPUT(projet-f103.elf elf32-littlearm)
  .debug_macro   0x00019b73      0x45a lib/middleware/MIDI/usbd_ctlreq.o
  .debug_macro   0x00019fcd      0x45a lib/middleware/MIDI/usbd_ioreq.o
 
-.debug_line     0x00000000     0xfc9b
- .debug_line    0x00000000      0x9e6 appli/main.o
- .debug_line    0x000009e6      0xad8 lib/bsp/stm32f1_extit.o
- .debug_line    0x000014be      0x7d6 lib/bsp/stm32f1_gpio.o
- .debug_line    0x00001c94      0xd43 lib/bsp/stm32f1_sys.o
- .debug_line    0x000029d7      0xbc6 lib/bsp/stm32f1_timer.o
- .debug_line    0x0000359d      0xcad lib/bsp/stm32f1_uart.o
- .debug_line    0x0000424a      0xca9 lib/bsp/stm32f1_weak_it.o
- .debug_line    0x00004ef3      0x7ec lib/bsp/system_stm32f1xx.o
- .debug_line    0x000056df      0x981 lib/bsp/systick.o
- .debug_line    0x00006060      0x97a lib/hal/src/stm32f1xx_hal.o
- .debug_line    0x000069da      0x988 lib/hal/src/stm32f1xx_hal_cortex.o
- .debug_line    0x00007362      0xb24 lib/hal/src/stm32f1xx_hal_dma.o
- .debug_line    0x00007e86      0x94d lib/hal/src/stm32f1xx_hal_gpio.o
- .debug_line    0x000087d3      0xc89 lib/hal/src/stm32f1xx_hal_pcd.o
- .debug_line    0x0000945c      0xa83 lib/hal/src/stm32f1xx_hal_rcc.o
- .debug_line    0x00009edf      0x866 lib/hal/src/stm32f1xx_hal_rcc_ex.o
- .debug_line    0x0000a745     0x1087 lib/hal/src/stm32f1xx_hal_uart.o
- .debug_line    0x0000b7cc      0xc50 lib/hal/src/stm32f1xx_ll_usb.o
- .debug_line    0x0000c41c      0xa93 lib/middleware/MIDI/midi.o
- .debug_line    0x0000ceaf      0xb77 lib/middleware/MIDI/usbd_conf.o
- .debug_line    0x0000da26      0xb9b lib/middleware/MIDI/usbd_core.o
- .debug_line    0x0000e5c1      0xc61 lib/middleware/MIDI/usbd_ctlreq.o
- .debug_line    0x0000f222      0x9e4 lib/middleware/MIDI/usbd_ioreq.o
- .debug_line    0x0000fc06       0x95 lib/startup_stm32f103xb.o
+.debug_line     0x00000000     0xfe69
+ .debug_line    0x00000000      0xa04 appli/main.o
+ .debug_line    0x00000a04      0xaf0 lib/bsp/stm32f1_extit.o
+ .debug_line    0x000014f4      0x7e8 lib/bsp/stm32f1_gpio.o
+ .debug_line    0x00001cdc      0xd5b lib/bsp/stm32f1_sys.o
+ .debug_line    0x00002a37      0xbde lib/bsp/stm32f1_timer.o
+ .debug_line    0x00003615      0xcc5 lib/bsp/stm32f1_uart.o
+ .debug_line    0x000042da      0xcc1 lib/bsp/stm32f1_weak_it.o
+ .debug_line    0x00004f9b      0x7fe lib/bsp/system_stm32f1xx.o
+ .debug_line    0x00005799      0x993 lib/bsp/systick.o
+ .debug_line    0x0000612c      0x98c lib/hal/src/stm32f1xx_hal.o
+ .debug_line    0x00006ab8      0x99a lib/hal/src/stm32f1xx_hal_cortex.o
+ .debug_line    0x00007452      0xb36 lib/hal/src/stm32f1xx_hal_dma.o
+ .debug_line    0x00007f88      0x95f lib/hal/src/stm32f1xx_hal_gpio.o
+ .debug_line    0x000088e7      0xc9b lib/hal/src/stm32f1xx_hal_pcd.o
+ .debug_line    0x00009582      0xa95 lib/hal/src/stm32f1xx_hal_rcc.o
+ .debug_line    0x0000a017      0x878 lib/hal/src/stm32f1xx_hal_rcc_ex.o
+ .debug_line    0x0000a88f     0x1099 lib/hal/src/stm32f1xx_hal_uart.o
+ .debug_line    0x0000b928      0xc62 lib/hal/src/stm32f1xx_ll_usb.o
+ .debug_line    0x0000c58a      0xaab lib/middleware/MIDI/midi.o
+ .debug_line    0x0000d035      0xb89 lib/middleware/MIDI/usbd_conf.o
+ .debug_line    0x0000dbbe      0xbad lib/middleware/MIDI/usbd_core.o
+ .debug_line    0x0000e76b      0xc73 lib/middleware/MIDI/usbd_ctlreq.o
+ .debug_line    0x0000f3de      0x9f6 lib/middleware/MIDI/usbd_ioreq.o
+ .debug_line    0x0000fdd4       0x95 lib/startup_stm32f103xb.o
 
-.debug_str      0x00000000    0x81fd1
- .debug_str     0x00000000    0x7b90c appli/main.o
-                              0x7bc62 (size before relaxing)
- .debug_str     0x0007b90c      0x42e lib/bsp/stm32f1_extit.o
-                              0x7c019 (size before relaxing)
- .debug_str     0x0007bd3a       0xf4 lib/bsp/stm32f1_gpio.o
-                              0x7763a (size before relaxing)
- .debug_str     0x0007be2e     0x215a lib/bsp/stm32f1_sys.o
-                              0x7de2c (size before relaxing)
- .debug_str     0x0007df88      0x710 lib/bsp/stm32f1_timer.o
-                              0x7c645 (size before relaxing)
- .debug_str     0x0007e698      0x3f9 lib/bsp/stm32f1_uart.o
-                              0x7c6c0 (size before relaxing)
- .debug_str     0x0007ea91      0x240 lib/bsp/stm32f1_weak_it.o
-                              0x7bf41 (size before relaxing)
- .debug_str     0x0007ecd1       0x4f lib/bsp/system_stm32f1xx.o
-                              0x77604 (size before relaxing)
- .debug_str     0x0007ed20      0x10d lib/bsp/systick.o
-                              0x7baa9 (size before relaxing)
- .debug_str     0x0007ee2d      0x364 lib/hal/src/stm32f1xx_hal.o
-                              0x77c4e (size before relaxing)
- .debug_str     0x0007f191      0x1d5 lib/hal/src/stm32f1xx_hal_cortex.o
-                              0x77c17 (size before relaxing)
- .debug_str     0x0007f366      0x22a lib/hal/src/stm32f1xx_hal_dma.o
-                              0x77965 (size before relaxing)
- .debug_str     0x0007f590      0x2b6 lib/hal/src/stm32f1xx_hal_gpio.o
-                              0x77942 (size before relaxing)
- .debug_str     0x0007f846      0x7c8 lib/hal/src/stm32f1xx_hal_pcd.o
-                              0x77dbd (size before relaxing)
- .debug_str     0x0008000e      0x1fe lib/hal/src/stm32f1xx_hal_rcc.o
-                              0x779a2 (size before relaxing)
- .debug_str     0x0008020c       0x8a lib/hal/src/stm32f1xx_hal_rcc_ex.o
-                              0x77729 (size before relaxing)
- .debug_str     0x00080296      0x479 lib/hal/src/stm32f1xx_hal_uart.o
-                              0x77eb6 (size before relaxing)
- .debug_str     0x0008070f      0x17c lib/hal/src/stm32f1xx_ll_usb.o
-                              0x77a6f (size before relaxing)
- .debug_str     0x0008088b     0x1254 lib/middleware/MIDI/midi.o
-                              0x7d1a3 (size before relaxing)
- .debug_str     0x00081adf      0x25e lib/middleware/MIDI/usbd_conf.o
-                              0x7c9a0 (size before relaxing)
- .debug_str     0x00081d3d      0x14c lib/middleware/MIDI/usbd_core.o
-                              0x7c3f7 (size before relaxing)
- .debug_str     0x00081e89       0xd7 lib/middleware/MIDI/usbd_ctlreq.o
-                              0x7c311 (size before relaxing)
- .debug_str     0x00081f60       0x46 lib/middleware/MIDI/usbd_ioreq.o
-                              0x7c23e (size before relaxing)
- .debug_str     0x00081fa6       0x2b lib/startup_stm32f103xb.o
-                                 0x74 (size before relaxing)
+.debug_str      0x00000000    0x82020
+ .debug_str     0x00000000    0x7b912 appli/main.o
+                              0x7bc68 (size before relaxing)
+ .debug_str     0x0007b912      0x42e lib/bsp/stm32f1_extit.o
+                              0x7c01f (size before relaxing)
+ .debug_str     0x0007bd40       0xf4 lib/bsp/stm32f1_gpio.o
+                              0x77640 (size before relaxing)
+ .debug_str     0x0007be34     0x215a lib/bsp/stm32f1_sys.o
+                              0x7de32 (size before relaxing)
+ .debug_str     0x0007df8e      0x710 lib/bsp/stm32f1_timer.o
+                              0x7c64b (size before relaxing)
+ .debug_str     0x0007e69e      0x3f9 lib/bsp/stm32f1_uart.o
+                              0x7c6c6 (size before relaxing)
+ .debug_str     0x0007ea97      0x240 lib/bsp/stm32f1_weak_it.o
+                              0x7bf47 (size before relaxing)
+ .debug_str     0x0007ecd7       0x4f lib/bsp/system_stm32f1xx.o
+                              0x7760a (size before relaxing)
+ .debug_str     0x0007ed26      0x10d lib/bsp/systick.o
+                              0x7baaf (size before relaxing)
+ .debug_str     0x0007ee33      0x364 lib/hal/src/stm32f1xx_hal.o
+                              0x77c54 (size before relaxing)
+ .debug_str     0x0007f197      0x1d5 lib/hal/src/stm32f1xx_hal_cortex.o
+                              0x77c1d (size before relaxing)
+ .debug_str     0x0007f36c      0x22a lib/hal/src/stm32f1xx_hal_dma.o
+                              0x7796b (size before relaxing)
+ .debug_str     0x0007f596      0x2b6 lib/hal/src/stm32f1xx_hal_gpio.o
+                              0x77948 (size before relaxing)
+ .debug_str     0x0007f84c      0x7c8 lib/hal/src/stm32f1xx_hal_pcd.o
+                              0x77dc3 (size before relaxing)
+ .debug_str     0x00080014      0x1fe lib/hal/src/stm32f1xx_hal_rcc.o
+                              0x779a8 (size before relaxing)
+ .debug_str     0x00080212       0x8a lib/hal/src/stm32f1xx_hal_rcc_ex.o
+                              0x7772f (size before relaxing)
+ .debug_str     0x0008029c      0x479 lib/hal/src/stm32f1xx_hal_uart.o
+                              0x77ebc (size before relaxing)
+ .debug_str     0x00080715      0x17c lib/hal/src/stm32f1xx_ll_usb.o
+                              0x77a75 (size before relaxing)
+ .debug_str     0x00080891     0x1254 lib/middleware/MIDI/midi.o
+                              0x7d1a9 (size before relaxing)
+ .debug_str     0x00081ae5      0x25e lib/middleware/MIDI/usbd_conf.o
+                              0x7c9a6 (size before relaxing)
+ .debug_str     0x00081d43      0x14c lib/middleware/MIDI/usbd_core.o
+                              0x7c3fd (size before relaxing)
+ .debug_str     0x00081e8f       0xd7 lib/middleware/MIDI/usbd_ctlreq.o
+                              0x7c317 (size before relaxing)
+ .debug_str     0x00081f66       0x46 lib/middleware/MIDI/usbd_ioreq.o
+                              0x7c244 (size before relaxing)
+ .debug_str     0x00081fac       0x74 lib/startup_stm32f103xb.o
 
 .comment        0x00000000       0x7f
  .comment       0x00000000       0x7f appli/main.o
