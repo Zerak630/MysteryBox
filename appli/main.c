@@ -13,6 +13,17 @@
 #include "macro_types.h"
 #include "systick.h"
 
+#include "accel.h"
+
+enum level {
+	LEVEL_CAPTEUR = 0,
+	LEVEL_ACCEL,
+	LEVEL_MATRICE,
+	LEVEL_SERVO,
+	LEVEL_SIMON,
+	LEVEL_AFF
+} level;
+
 void writeLED(bool_e b)
 {
 	HAL_GPIO_WritePin(LED_GREEN_GPIO, LED_GREEN_PIN, b);
@@ -56,14 +67,39 @@ int main(void)
 	Systick_add_callback_function(&process_ms);
 
 
-
+	//Machine à états
 	while(1)	//boucle de tâche de fond
 	{
-		if(!t)
+		/*if(!t)
 		{
 			t = 200;
 			HAL_GPIO_TogglePin(LED_GREEN_GPIO, LED_GREEN_PIN);
-		}
+		}*/
+		switch(level) {
+		case LEVEL_CAPTEUR :
+			if(TRUE) {	//Si le capteur est déclenché TODO changer la condition
+				//TODO Ajouter un signal sonore
+				level = LEVEL_ACCEL; //On passe au niveau suivant
+			};
+			break;
+		case LEVEL_ACCEL :
+			if(ACCEL_test()) {
+				uint32_t suceboule;
+			};
+			break;
+
+		case LEVEL_MATRICE :
+			break;
+
+		case LEVEL_SERVO :
+			break;
+
+		case LEVEL_SIMON :
+			break;
+
+		case LEVEL_AFF :
+			break;
+		};
 
 	}
 }

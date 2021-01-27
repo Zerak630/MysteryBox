@@ -4,12 +4,15 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../appli/accel.c \
 ../appli/main.c 
 
 OBJS += \
+./appli/accel.o \
 ./appli/main.o 
 
 C_DEPS += \
+./appli/accel.d \
 ./appli/main.d 
 
 

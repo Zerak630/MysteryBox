@@ -49,7 +49,8 @@ appli/main.o: ../appli/main.c \
  C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/stm32f1_uart.h \
  C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/stm32f1_gpio.h \
  C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/macro_types.h \
- C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/systick.h
+ C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/systick.h \
+ ../appli/accel.h
 
 C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/hal/inc/stm32f1xx_hal.h:
 
@@ -152,3 +153,5 @@ C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib
 C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/macro_types.h:
 
 C:/Users/Zerak/Drive\ perso/Projet\ Système\ Embarqué/Projet\ PSE/MysteryBox/lib/bsp/systick.h:
+
+../appli/accel.h:
